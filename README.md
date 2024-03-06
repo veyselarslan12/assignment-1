@@ -21,3 +21,4 @@ My motivation is to improve myself and develop my first web page for assignment.
 * I also practiced using CSS selectors to target specific
 * I learned semantic elements for website.
 * I learned how to use ```alt``` , ```id``` and  ```class``` attributes correctly.
+
