@@ -22,3 +22,9 @@ My motivation is to improve myself and develop my first web page for assignment.
 * I learned semantic elements for website.
 * I learned how to use ```alt``` , ```id``` and  ```class``` attributes correctly.
 
+## Links
+
+* [Github  Repository](https://github.com/veyselarslan12/assignment-1/settings/pages)
+
+* [Deployment Link](https://veyselarslan12.github.io/assignment-1/)
+
