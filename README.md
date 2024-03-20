@@ -10,11 +10,15 @@ My motivation is to improve myself and develop my first web page for assignment.
 
 
 ## How Did I Solve The Problems?
-* I added proper structure to the HTML code by using semantic tags like `<header>`, `aside` ,` nav `, `<main>` and `<footer>`. This improved the readability
+* I added proper structure to the HTML code by using semantic tags like `<header>`, `aside` ,` nav `, `<main>` and `<footer>`. This improved the readability.
+* ![HTML structure](./assets/images/html-semantic-elements.png)
 * To address the issue of missing structure in the HTML
-* I added attributes such as ``` alt ``` for images and ```id ``` for specific identification of HTML elements.
+* I added attributes such as ``` alt ``` for images, ```class``` and ```id ``` for specific identification of HTML elements.
+* ![alt and id identification](./assets/images/id-and-attributes-tags.png)
 * For improving CSS styling, I used ``` benefit ```  class to group similar properties together under a single selector.
+* ![group properties](./assets/images/group-tags.png)
 * I added ```section``` for paragraphs and images. This helped organize the content better.
+* ![section](./assets/images/section.png)
 
 ## What Did I Learned?
 * I learned how to use semantic tags effectively which improves

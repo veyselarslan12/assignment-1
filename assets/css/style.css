@@ -1,3 +1,4 @@
+/* body reset codes here */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -7,7 +8,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/* header design codes are here */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -23,7 +24,7 @@ body {
 .header h1 .seo {
     color: #d9dcd6;
 }
-
+/* header nav bar design codes are here */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -40,7 +41,7 @@ body {
     display: inline-block;
     margin-left: 25px;
 }
-
+/* images design codes are here */
 a {
     color: #ffffff;
     text-decoration: none;
@@ -49,7 +50,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/*  image alignment and size codes are here */
 .hero {
     height: 800px;
     width: 100%;
@@ -58,7 +59,7 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/*  responsive design for mobile devices */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -68,7 +69,7 @@ p {
     float: right;
     margin-left: 25px;
 }
-
+/* all the contents design codes are here */
 .content {
     width: 75%;
     display: inline-block;
@@ -91,7 +92,7 @@ p {
     color: #ffffff;
 }
 
-
+/* content  heading and paragraph styles */
 .benefit h3 {
     margin-bottom: 10px;
     text-align: center;
@@ -103,7 +104,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* section images and content design codes are here */
 .section  {
     margin-bottom: 20px;
     padding: 50px;
@@ -123,7 +124,7 @@ p {
     font-size: 36px;
 }
 
-
+/* footer design codes are here */
 .footer {
     padding: 30px;
     clear: both;
